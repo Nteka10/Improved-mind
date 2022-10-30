@@ -1,8 +1,8 @@
 /*
 Author: Nteka.M.E
 Date: October 2022
-
 */
+
 #include <stdio.h>
 #include <math.h>
 
