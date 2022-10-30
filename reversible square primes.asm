@@ -1,3 +1,11 @@
+######################################
+# Author:Nteka.M.E
+# Date : 29 octeber 2022
+# 
+#
+#
+#######################################
+
 .text
 main:
 	jal ReversiblePrimeSquares
